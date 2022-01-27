@@ -1,6 +1,6 @@
 # App_Viviendas
 
-App que calcula la tasacion de la vivienda en madrid http://datascience2109thebridge.pythonanywhere.com/
+App que calcula la tasacion de la vivienda en madrid
 
 En un mercado tan extenso, con múltiples variables a tomar en cuenta y con amplios rangos de diferenciales en las características de sus bienes, como es el mercado inmobiliario; Siempre resulta difícil valorar viviendas o inmuebles. Por ello, nuestra aplicación da respuesta a este inconveniente de manera rápida y sencilla para todos los usuarios en la Comunidad de Madrid.
 
@@ -8,7 +8,7 @@ Con un solo click y sin intermediarios podrás hacer uso de nuestro producto par
 
 ....
 
-App that calculates the appraisal of housing in Madrid http://datascience2109thebridge.pythonanywhere.com/
+App that calculates the appraisal of housing in Madrid
 
 In such an extensive market, with multiple variables to take into account and with wide ranges of differentials in the characteristics of its assets, such as the real estate market; It is always difficult to value homes or real estate. Therefore, our application responds to this problem quickly and easily for all users in the Community of Madrid.
 
